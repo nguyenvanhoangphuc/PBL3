@@ -8,5 +8,6 @@ namespace ThiGK
 {
     internal class phucthulan2
     {
+        //toi viet them dong nay
     }
 }
